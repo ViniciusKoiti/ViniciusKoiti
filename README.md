@@ -39,13 +39,13 @@
 
 ## 🧩 Projetos em Destaque
 
-### 💰 [Gerenciador de Finanças (Web + Mobile)](https://github.com/ViniciusKoiti/gerenciador-financas)
+### 💰 [Gerenciador de Finanças (Web)](https://github.com/ViniciusKoiti/gerenciador-financas)
 
 > Aplicação completa para controle financeiro pessoal com foco em boas práticas e arquitetura limpa.
 
 🔗 Repositórios:  
 • [Backend (Spring Boot)](https://github.com/ViniciusKoiti/gerenciador-financas)  
-• [Mobile App (Flutter)](https://github.com/ViniciusKoiti/gerenciador-financas-app)
+• [WEB (ANGULAR)](https://github.com/ViniciusKoiti/gerenciador-financas-app)
 
 **Tecnologias utilizadas:**  
 ![Java](https://img.shields.io/badge/Java-17-007396?style=flat&logo=java&logoColor=white)
