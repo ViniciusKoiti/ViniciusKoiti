@@ -90,9 +90,10 @@
   <br/>
 
   <table>
+
     <tr>
       <td width="88" valign="middle">
-        <img src="assets/formacao/ifpr.png" width="64" alt="IFPR">
+        <img src="assets/certificados/IFPR.png" width="64" alt="IFPR">
       </td>
       <td>
         <strong>Engenharia de Software - Bacharel</strong><br/>
@@ -107,7 +108,7 @@
       <td width="88" align="center" valign="middle">
         <!-- Hotlink temporário da DIO (troque por arquivo local quando quiser) -->
         <img
-          src="assets/formacao/ifpr.png"
+          src="assets/certificados/DIO.png"
           width="64" alt="DIO">
       </td>
       <td>
