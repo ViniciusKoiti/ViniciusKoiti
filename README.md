@@ -92,7 +92,7 @@
   <table>
     <tr>
       <td width="88" valign="middle">
-        <img src="assets/certificados/IFPR.png" width="64" alt="IFPR">
+        <img src="assets/formacao/IFPR.png" width="64" alt="IFPR">
       </td>
       <td>
         <strong>Engenharia de Software - Bacharel</strong><br/>
@@ -105,7 +105,7 @@
      <tr>
       <td width="88" align="center" valign="middle">
         <img
-          src="assets/certificados/DIO.png"
+          src="assets/certificados/DIO.webp"
           width="64" alt="DIO">
       </td>
       <td>
