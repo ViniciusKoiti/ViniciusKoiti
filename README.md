@@ -90,7 +90,6 @@
   <br/>
 
   <table>
-
     <tr>
       <td width="88" valign="middle">
         <img src="assets/certificados/IFPR.png" width="64" alt="IFPR">
@@ -103,10 +102,8 @@
         <a href="https://suap.ifpr.edu.br/edu/baixar_pdf_representacao_visual/794/30ffc7f65547a2ce48e7308c8a3693e2abbc3e50d3ea3853cfe68322efb00b97/" target="_blank">🔗 Ver diploma/Histórico</a>
       </td>
     </tr>
-
      <tr>
       <td width="88" align="center" valign="middle">
-        <!-- Hotlink temporário da DIO (troque por arquivo local quando quiser) -->
         <img
           src="assets/certificados/DIO.png"
           width="64" alt="DIO">
