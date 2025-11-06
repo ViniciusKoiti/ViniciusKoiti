@@ -84,10 +84,44 @@
 
 ## 🎓 Formação e Certificações
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** — IFPR  
-- 📜 **Java Developer** (Digital Innovation One)  
-- 📜 **Spring Boot, Spring Security, JUnit/Mockito**  
-- 📜 **Cybersecurity Essentials** (Cisco / PROGETI)
+<details>
+  <summary><strong>Ver meus certificados</strong></summary>
+
+  <br/>
+
+  <table>
+    <tr>
+      <td width="88" valign="middle">
+        <img src="assets/formacao/ifpr.png" width="64" alt="IFPR">
+      </td>
+      <td>
+        <strong>Engenharia de Software - Bacharel</strong><br/>
+        Instituto Federal do Paraná — <em>Concluído</em><br/>
+        <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=flat-square"/>
+        <br/>
+        <a href="https://suap.ifpr.edu.br/edu/baixar_pdf_representacao_visual/794/30ffc7f65547a2ce48e7308c8a3693e2abbc3e50d3ea3853cfe68322efb00b97/" target="_blank">🔗 Ver diploma/Histórico</a>
+      </td>
+    </tr>
+
+     <tr>
+      <td width="88" align="center" valign="middle">
+        <!-- Hotlink temporário da DIO (troque por arquivo local quando quiser) -->
+        <img
+          src="assets/formacao/ifpr.png"
+          width="64" alt="DIO">
+      </td>
+      <td>
+        <strong>Java Developer</strong><br/>
+        Digital Innovation One — <em>Concluído</em><br/>
+        <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-success?style=flat-square"/>
+        <br/>
+        <a href="https://hermes.dio.me/certificates/F7FE5B8D.pdf" target="_blank">🔗 Ver certificado</a>
+      </td>
+    </tr>
+
+  </table>
+
+</details>
 
 ---
 
