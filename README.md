@@ -84,10 +84,8 @@
 
 ## 🎓 Formação e Certificações
 
-<details>
-  <summary><strong>Ver meus certificados</strong></summary>
 
-  <br/>
+
 
   <table>
     <tr>
@@ -119,7 +117,6 @@
 
   </table>
 
-</details>
 
 ---
 
